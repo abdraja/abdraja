@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul Raja 👋</h1>
 
 <p align="center">
-  Aspiring Java Developer | Learning HTML & CSS | Building Projects
+  Java Developer | Web developer | Building Projects
 </p>
 
 <hr>
@@ -9,7 +9,7 @@
 <h2>About Me</h2>
 
 <ul>
-  <li>🌱 Currently learning Java, HTML, and CSS</li>
+  <li>🌱 Currently doing projects by using Java, HTML, and CSS</li>
   <li>💻 Building beginner projects to strengthen my coding skills</li>
   <li>🎯 Goal: Become a skilled software developer</li>
   <li>📚 Interested in problem-solving and web development</li>
