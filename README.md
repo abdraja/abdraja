@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abdul Raja 👋</h1>
 
-<!--
-**abdraja/abdraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aspiring Java Developer | Learning HTML & CSS | Building Projects
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About Me</h2>
+
+<ul>
+  <li>🌱 Currently learning Java, HTML, and CSS</li>
+  <li>💻 Building beginner projects to strengthen my coding skills</li>
+  <li>🎯 Goal: Become a skilled software developer</li>
+  <li>📚 Interested in problem-solving and web development</li>
+</ul>
+
+<h2>Languages and Tools</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</p>
+
+<h2>Projects</h2>
+
+<ul>
+  <li>🧮 Java Calculator — a calculator made with Java, Scanner, loops, and switch-case.</li>
+</ul>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
